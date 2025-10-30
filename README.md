@@ -1,4 +1,5 @@
 🛍️ Madhav E-commerce Sales Dashboard
+
 📘 Project Overview
 
 The Madhav E-commerce Sales Dashboard is an interactive and insightful data analysis project designed to visualize key sales metrics and business performance indicators. The dashboard provides a comprehensive view of sales trends, top-performing products, customer segments, and regional performance — helping businesses make data-driven decisions efficiently.
