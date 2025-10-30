@@ -43,9 +43,7 @@ Payment Mode – Type of payment used
 
 🧠 Tools & Technologies Used
 
-Microsoft Excel / Power BI / Tableau / Python (choose the one you used)
-
-Pandas, Matplotlib, Seaborn (if Python used)
+Power BI 
 
 Data Cleaning & Analysis
 
